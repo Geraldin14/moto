@@ -1,0 +1,1001 @@
+Price,Maint,Engine_Size,Persons,Fuel_Type,Safety,Class
+Very High,High,Medium,1,Petrol,High,Acc
+Medium,High,Large,3more,Diesel,High,Unacc
+Low,Low,Medium,3more,Electric,Low,Vgood
+Low,Low,Large,1,Electric,Medium,Good
+High,Low,Small,2,Diesel,Low,Vgood
+Very High,Very High,Medium,2,Petrol,High,Good
+Low,High,Small,3more,Petrol,High,Good
+High,Low,Large,2,Electric,High,Acc
+Very High,Very High,Large,3more,Petrol,High,Unacc
+Very High,High,Large,3more,Diesel,High,Good
+High,Medium,Small,3more,Petrol,Medium,Vgood
+Very High,Medium,Small,3more,Electric,Low,Unacc
+Low,High,Small,2,Petrol,Low,Good
+High,High,Small,1,Electric,High,Acc
+Low,High,Large,3more,Diesel,Medium,Vgood
+High,Medium,Large,2,Diesel,High,Vgood
+Medium,Very High,Medium,1,Electric,Medium,Good
+Low,Medium,Medium,3more,Petrol,Medium,Acc
+Medium,Low,Large,2,Diesel,High,Good
+High,High,Large,1,Petrol,High,Vgood
+Very High,Medium,Small,1,Petrol,Low,Vgood
+Medium,High,Large,1,Electric,Low,Unacc
+High,Very High,Small,3more,Petrol,Medium,Unacc
+Medium,Low,Medium,3more,Electric,Medium,Vgood
+Low,Medium,Small,3more,Electric,High,Unacc
+High,Very High,Medium,1,Petrol,Medium,Vgood
+High,Very High,Medium,1,Petrol,Low,Acc
+Very High,Low,Large,3more,Diesel,High,Unacc
+High,Low,Medium,3more,Electric,Low,Acc
+Low,Low,Large,1,Petrol,Low,Unacc
+High,Very High,Large,1,Petrol,High,Acc
+High,Medium,Large,3more,Petrol,Medium,Acc
+Low,Very High,Medium,2,Diesel,Low,Vgood
+Medium,Medium,Large,1,Diesel,Low,Unacc
+Medium,Very High,Medium,1,Petrol,Medium,Unacc
+Low,Low,Large,3more,Petrol,Low,Vgood
+Medium,High,Medium,3more,Petrol,Low,Vgood
+High,Very High,Large,2,Diesel,High,Acc
+High,Very High,Small,2,Diesel,High,Vgood
+High,High,Small,3more,Petrol,Medium,Acc
+High,Very High,Large,2,Diesel,Low,Vgood
+High,Very High,Large,1,Petrol,Low,Vgood
+Low,Very High,Medium,3more,Diesel,Medium,Unacc
+High,Very High,Small,3more,Petrol,Medium,Good
+Medium,Very High,Medium,1,Diesel,Medium,Unacc
+Low,Medium,Large,1,Petrol,High,Vgood
+Medium,Medium,Small,1,Diesel,Medium,Good
+High,Medium,Large,1,Electric,Low,Good
+High,Very High,Medium,2,Petrol,Low,Good
+Very High,Very High,Large,3more,Petrol,Medium,Good
+Very High,Medium,Medium,3more,Electric,Low,Acc
+High,Low,Small,2,Diesel,High,Acc
+Medium,Medium,Small,3more,Diesel,High,Good
+Low,Very High,Medium,2,Diesel,Low,Acc
+Medium,Very High,Small,2,Electric,High,Good
+Medium,Low,Small,2,Diesel,High,Good
+Medium,Medium,Small,3more,Petrol,High,Vgood
+Medium,High,Large,3more,Petrol,Medium,Vgood
+Low,Low,Medium,1,Diesel,Medium,Acc
+Very High,Very High,Large,2,Petrol,High,Good
+Very High,Low,Medium,1,Petrol,Low,Acc
+Low,Low,Large,2,Electric,High,Acc
+Low,High,Medium,2,Electric,High,Vgood
+Medium,High,Large,3more,Electric,Low,Unacc
+Low,Low,Medium,3more,Electric,High,Good
+Very High,Medium,Small,1,Petrol,Medium,Vgood
+High,Low,Small,1,Petrol,Medium,Acc
+High,High,Medium,3more,Diesel,High,Acc
+High,High,Small,2,Diesel,Low,Vgood
+Medium,High,Large,3more,Diesel,Low,Unacc
+Very High,High,Small,1,Electric,Medium,Unacc
+High,High,Small,2,Electric,Medium,Good
+Medium,Very High,Medium,1,Electric,Medium,Acc
+High,Low,Small,3more,Petrol,Low,Acc
+Low,Medium,Large,1,Petrol,Medium,Unacc
+Low,Medium,Small,3more,Electric,Low,Vgood
+Medium,Very High,Medium,1,Electric,Low,Good
+Medium,Low,Large,3more,Diesel,Low,Unacc
+Medium,High,Small,2,Petrol,High,Unacc
+Medium,High,Small,2,Petrol,High,Vgood
+High,Medium,Small,3more,Electric,Medium,Acc
+Medium,Medium,Small,3more,Petrol,High,Unacc
+Medium,Very High,Large,3more,Electric,Low,Good
+Medium,Low,Small,1,Petrol,Low,Acc
+Low,Low,Small,1,Electric,Medium,Good
+Very High,High,Medium,2,Electric,Low,Unacc
+Low,Low,Medium,3more,Petrol,High,Acc
+Low,Low,Medium,2,Petrol,High,Good
+Low,Very High,Large,3more,Diesel,High,Good
+Very High,Very High,Large,2,Petrol,Low,Vgood
+Very High,High,Small,2,Petrol,Medium,Good
+Low,Very High,Large,3more,Petrol,Low,Good
+Medium,High,Small,2,Diesel,Medium,Vgood
+Low,Very High,Small,1,Petrol,High,Good
+Low,Very High,Medium,1,Petrol,High,Acc
+Low,Medium,Small,1,Petrol,High,Unacc
+Very High,Medium,Medium,1,Electric,Low,Acc
+Low,Very High,Small,3more,Electric,High,Unacc
+High,Very High,Medium,1,Petrol,Medium,Acc
+Low,Very High,Small,3more,Diesel,Low,Good
+Low,Medium,Medium,3more,Diesel,Medium,Acc
+High,High,Small,1,Diesel,High,Good
+Low,Low,Large,3more,Petrol,Low,Unacc
+Low,Very High,Small,2,Petrol,Low,Acc
+Low,Very High,Medium,3more,Diesel,Low,Vgood
+Medium,Medium,Medium,3more,Electric,Medium,Good
+Medium,Very High,Large,3more,Electric,High,Good
+Medium,High,Small,3more,Electric,Low,Vgood
+High,Low,Small,2,Diesel,High,Acc
+Low,Very High,Small,2,Diesel,Medium,Acc
+Low,High,Medium,1,Electric,Medium,Unacc
+Medium,Low,Small,2,Diesel,Medium,Acc
+High,Medium,Large,3more,Diesel,Medium,Acc
+High,Low,Large,2,Electric,Low,Unacc
+High,High,Small,3more,Diesel,Low,Acc
+Medium,Low,Small,1,Petrol,Low,Acc
+Medium,Low,Small,1,Diesel,Low,Acc
+Low,Medium,Large,1,Petrol,Low,Vgood
+Low,Low,Small,1,Petrol,High,Unacc
+Low,Medium,Medium,3more,Electric,High,Good
+Medium,Very High,Large,1,Electric,Medium,Unacc
+Medium,Low,Large,2,Diesel,High,Unacc
+High,Low,Medium,1,Diesel,High,Acc
+Medium,Medium,Medium,3more,Petrol,High,Vgood
+Low,Low,Medium,1,Electric,Low,Vgood
+Low,High,Medium,2,Electric,High,Vgood
+Medium,Medium,Large,1,Diesel,Medium,Good
+Very High,Medium,Medium,2,Petrol,Low,Good
+High,Very High,Medium,1,Petrol,Medium,Unacc
+Medium,Low,Medium,3more,Electric,Medium,Acc
+Very High,High,Large,1,Diesel,High,Vgood
+Low,Very High,Medium,1,Diesel,Low,Vgood
+Medium,Low,Medium,3more,Diesel,Medium,Vgood
+High,Very High,Small,1,Diesel,High,Vgood
+Very High,Low,Medium,1,Electric,Medium,Good
+Very High,High,Large,3more,Electric,High,Good
+Medium,Very High,Medium,2,Diesel,Low,Good
+Medium,Medium,Medium,3more,Diesel,Low,Unacc
+Very High,Very High,Large,3more,Electric,Medium,Acc
+Low,Low,Small,2,Petrol,Low,Acc
+High,High,Medium,2,Electric,High,Good
+Low,Very High,Medium,1,Diesel,Medium,Acc
+Very High,High,Small,3more,Diesel,Medium,Vgood
+Low,Low,Small,3more,Petrol,Low,Vgood
+Medium,Low,Medium,2,Electric,Medium,Vgood
+Very High,Low,Large,3more,Diesel,Medium,Good
+High,Medium,Medium,1,Diesel,Low,Unacc
+High,High,Large,2,Electric,Low,Vgood
+Low,Medium,Small,3more,Petrol,Low,Good
+Low,Medium,Small,2,Diesel,Low,Acc
+High,High,Large,2,Petrol,High,Unacc
+Very High,Low,Small,1,Petrol,Low,Good
+Low,Medium,Large,3more,Electric,Low,Vgood
+Very High,High,Medium,1,Diesel,Medium,Good
+High,Very High,Large,2,Electric,High,Vgood
+Very High,Medium,Small,1,Diesel,High,Acc
+High,Low,Medium,3more,Diesel,High,Acc
+Very High,High,Medium,2,Electric,Low,Vgood
+Medium,Medium,Large,1,Electric,Low,Good
+Very High,Low,Large,2,Electric,High,Acc
+High,Low,Large,1,Diesel,Low,Unacc
+Very High,High,Medium,3more,Diesel,Low,Acc
+Medium,Very High,Large,3more,Petrol,Low,Vgood
+Low,Low,Medium,3more,Petrol,Low,Good
+Very High,High,Large,1,Petrol,Low,Acc
+High,Medium,Small,3more,Diesel,Medium,Unacc
+Medium,Very High,Small,3more,Diesel,Low,Good
+Low,High,Large,3more,Petrol,Medium,Good
+Very High,High,Medium,2,Diesel,Low,Unacc
+Low,Very High,Small,3more,Petrol,Medium,Good
+Very High,Low,Large,2,Petrol,Medium,Good
+Very High,Low,Medium,3more,Petrol,High,Unacc
+Low,Medium,Small,3more,Electric,High,Good
+Low,Medium,Large,3more,Diesel,Low,Unacc
+Medium,Medium,Medium,3more,Diesel,Medium,Good
+Very High,Very High,Large,1,Petrol,Low,Vgood
+Very High,Very High,Medium,2,Diesel,High,Vgood
+Low,Low,Small,1,Petrol,Medium,Unacc
+Medium,High,Large,2,Petrol,Medium,Good
+Low,Low,Medium,2,Diesel,High,Good
+High,High,Medium,1,Electric,Low,Unacc
+Medium,Very High,Large,3more,Petrol,High,Unacc
+High,Very High,Large,3more,Electric,Low,Vgood
+Medium,Low,Small,2,Diesel,Low,Vgood
+Very High,Very High,Medium,1,Petrol,Medium,Vgood
+Low,Low,Medium,2,Diesel,High,Acc
+Medium,Very High,Medium,1,Electric,Low,Vgood
+Very High,Medium,Large,3more,Diesel,Medium,Unacc
+Very High,Low,Large,3more,Petrol,High,Unacc
+High,High,Small,2,Electric,High,Good
+High,Low,Large,2,Petrol,Medium,Unacc
+Very High,Medium,Medium,1,Diesel,Low,Acc
+High,Medium,Medium,2,Diesel,Medium,Acc
+Very High,High,Large,1,Electric,High,Acc
+Very High,Very High,Small,2,Petrol,Medium,Unacc
+Very High,Very High,Large,1,Electric,Medium,Vgood
+High,Low,Small,2,Petrol,High,Unacc
+Medium,Medium,Large,1,Petrol,Medium,Unacc
+Very High,Medium,Large,1,Electric,High,Vgood
+Low,High,Large,1,Diesel,Low,Unacc
+Low,Medium,Large,3more,Electric,High,Good
+High,Medium,Small,2,Electric,Medium,Unacc
+Very High,Very High,Small,3more,Electric,Medium,Good
+Very High,Very High,Medium,1,Petrol,High,Acc
+Medium,Low,Small,3more,Electric,High,Unacc
+Medium,Low,Medium,2,Electric,High,Good
+Low,Very High,Large,1,Diesel,Low,Good
+Low,High,Large,2,Electric,Low,Acc
+Low,Medium,Medium,1,Diesel,Medium,Good
+Low,Low,Small,1,Diesel,Medium,Unacc
+Very High,Low,Medium,2,Diesel,High,Vgood
+Low,Very High,Small,3more,Petrol,High,Vgood
+Medium,High,Medium,3more,Petrol,Medium,Unacc
+Very High,High,Large,1,Petrol,Medium,Unacc
+High,Very High,Large,1,Diesel,Low,Acc
+Medium,High,Small,1,Diesel,Low,Acc
+High,Medium,Small,1,Petrol,Low,Good
+Low,High,Small,2,Diesel,High,Unacc
+Low,Low,Small,1,Diesel,Low,Acc
+Very High,Medium,Large,2,Petrol,Medium,Vgood
+Very High,Low,Large,3more,Petrol,High,Unacc
+Medium,High,Small,2,Diesel,High,Good
+High,Low,Small,1,Petrol,Low,Acc
+Very High,Very High,Medium,3more,Electric,Low,Vgood
+Very High,Low,Large,3more,Diesel,Medium,Acc
+High,Medium,Small,1,Electric,High,Unacc
+High,High,Small,3more,Diesel,Low,Good
+Low,Very High,Medium,1,Petrol,Low,Good
+Low,Medium,Medium,3more,Electric,Low,Good
+Very High,High,Medium,1,Petrol,High,Unacc
+Low,High,Small,2,Diesel,Medium,Good
+Very High,High,Large,2,Petrol,High,Vgood
+Very High,Very High,Medium,1,Electric,Medium,Unacc
+High,High,Large,1,Electric,Low,Vgood
+Very High,Medium,Medium,1,Petrol,Low,Unacc
+Very High,High,Large,3more,Diesel,Medium,Unacc
+Very High,High,Small,1,Diesel,Low,Unacc
+Low,Medium,Large,1,Petrol,Medium,Acc
+Low,Very High,Small,1,Diesel,Medium,Unacc
+Medium,High,Large,1,Petrol,High,Acc
+High,Low,Large,2,Electric,Medium,Good
+Medium,Medium,Large,1,Electric,Medium,Unacc
+Very High,Low,Medium,3more,Petrol,Low,Acc
+Very High,Very High,Small,3more,Diesel,Low,Unacc
+Medium,Low,Large,1,Electric,Medium,Acc
+High,Low,Medium,1,Petrol,High,Good
+Very High,Medium,Small,1,Petrol,Medium,Vgood
+Very High,Very High,Large,3more,Diesel,Medium,Unacc
+Low,Very High,Large,3more,Petrol,Low,Acc
+Very High,Very High,Small,2,Diesel,Medium,Good
+Very High,Low,Large,3more,Electric,Medium,Acc
+Very High,Low,Medium,1,Diesel,Medium,Acc
+Medium,Low,Medium,1,Diesel,Low,Good
+Low,Very High,Large,1,Diesel,Low,Unacc
+Very High,Low,Large,2,Diesel,Low,Vgood
+High,High,Large,3more,Diesel,Medium,Good
+Very High,Very High,Large,2,Petrol,Low,Acc
+Very High,High,Medium,1,Electric,High,Good
+High,Very High,Large,2,Diesel,Medium,Acc
+High,Medium,Large,2,Diesel,High,Good
+High,Low,Large,2,Electric,Low,Vgood
+Low,Low,Medium,1,Petrol,High,Acc
+Low,Very High,Small,1,Diesel,Medium,Acc
+Low,High,Small,1,Diesel,Low,Good
+Medium,Medium,Medium,3more,Electric,High,Acc
+High,Very High,Small,3more,Diesel,Medium,Acc
+High,Low,Medium,2,Diesel,Low,Good
+Low,Medium,Small,3more,Electric,High,Good
+High,Low,Small,3more,Petrol,Medium,Vgood
+Very High,High,Small,1,Diesel,Medium,Good
+Low,High,Medium,1,Electric,High,Unacc
+Very High,Medium,Large,1,Petrol,Low,Vgood
+High,Low,Large,1,Petrol,Low,Good
+High,High,Small,3more,Petrol,Medium,Good
+Very High,Medium,Large,2,Petrol,High,Good
+High,Medium,Small,1,Petrol,High,Vgood
+Low,Very High,Large,3more,Petrol,Medium,Acc
+Medium,High,Medium,2,Petrol,Medium,Unacc
+Medium,Low,Small,1,Diesel,High,Vgood
+Medium,High,Medium,1,Electric,High,Acc
+High,Very High,Medium,1,Electric,Low,Acc
+Low,Medium,Large,1,Diesel,Low,Vgood
+Low,Low,Large,1,Petrol,High,Good
+High,Medium,Small,2,Petrol,Medium,Good
+Low,Very High,Medium,2,Petrol,High,Acc
+High,Low,Small,1,Petrol,High,Good
+Medium,High,Large,2,Electric,Medium,Good
+Low,Very High,Large,3more,Diesel,High,Unacc
+High,Medium,Small,2,Electric,Medium,Acc
+Low,Medium,Medium,1,Petrol,Medium,Good
+Very High,Medium,Medium,3more,Electric,High,Acc
+Very High,Low,Medium,2,Petrol,High,Vgood
+Very High,Medium,Medium,3more,Diesel,High,Good
+High,Low,Large,3more,Petrol,High,Unacc
+Low,Medium,Small,1,Petrol,Medium,Unacc
+Very High,High,Large,2,Petrol,Low,Acc
+Low,Medium,Large,1,Diesel,Medium,Vgood
+High,High,Large,1,Petrol,Medium,Acc
+Very High,Medium,Large,1,Diesel,High,Vgood
+Very High,Low,Small,1,Diesel,Low,Good
+High,High,Small,2,Electric,Low,Good
+Low,Very High,Medium,2,Electric,Low,Vgood
+Very High,Low,Small,1,Diesel,Medium,Unacc
+Low,Very High,Large,3more,Diesel,High,Good
+Medium,Low,Medium,2,Electric,Medium,Unacc
+High,High,Medium,1,Petrol,Low,Good
+Very High,Very High,Small,2,Petrol,Low,Unacc
+High,Very High,Medium,1,Electric,High,Acc
+Medium,High,Small,1,Diesel,Medium,Vgood
+High,Low,Medium,3more,Petrol,Medium,Vgood
+High,Very High,Large,1,Petrol,High,Good
+Very High,Very High,Medium,1,Diesel,Medium,Good
+Medium,High,Small,2,Petrol,Low,Unacc
+Very High,Low,Large,3more,Electric,High,Acc
+Low,Medium,Medium,2,Diesel,Medium,Good
+Medium,Low,Small,3more,Electric,Medium,Good
+High,High,Large,1,Diesel,Medium,Acc
+High,Very High,Large,3more,Electric,High,Vgood
+Low,Very High,Large,2,Petrol,Medium,Acc
+High,High,Small,1,Electric,High,Unacc
+Very High,Low,Large,3more,Electric,High,Vgood
+Medium,Very High,Medium,3more,Petrol,Low,Vgood
+Low,Medium,Medium,2,Electric,Low,Vgood
+Low,High,Large,3more,Diesel,Medium,Vgood
+High,Low,Large,2,Electric,High,Vgood
+High,Low,Small,2,Diesel,High,Acc
+Low,Medium,Medium,1,Diesel,Medium,Good
+Very High,Very High,Large,2,Diesel,Medium,Good
+Very High,Low,Large,2,Electric,Low,Good
+Medium,Medium,Medium,3more,Diesel,Medium,Vgood
+High,Medium,Large,2,Petrol,Medium,Vgood
+Low,Medium,Small,2,Petrol,Low,Good
+High,High,Medium,3more,Diesel,Medium,Unacc
+High,High,Medium,1,Diesel,Low,Acc
+Very High,Low,Large,1,Electric,Medium,Unacc
+High,Low,Medium,1,Petrol,Low,Vgood
+Medium,Low,Small,3more,Diesel,Medium,Vgood
+Very High,Very High,Medium,1,Electric,Medium,Good
+Very High,Very High,Small,2,Petrol,High,Vgood
+High,Low,Large,1,Electric,High,Unacc
+Very High,High,Small,2,Electric,Low,Acc
+Medium,High,Large,2,Electric,Medium,Acc
+Low,Medium,Small,3more,Petrol,Low,Good
+Medium,Low,Large,2,Electric,High,Acc
+Very High,Very High,Large,1,Petrol,Low,Acc
+Medium,Medium,Small,1,Petrol,Medium,Acc
+Very High,High,Small,3more,Diesel,High,Good
+High,Low,Medium,2,Petrol,High,Unacc
+Very High,High,Large,3more,Petrol,Medium,Unacc
+Low,Medium,Medium,2,Petrol,Low,Good
+Medium,Low,Medium,1,Electric,Medium,Acc
+High,Very High,Large,1,Petrol,Low,Good
+Very High,Low,Small,2,Diesel,Medium,Vgood
+Medium,Very High,Small,1,Diesel,Medium,Vgood
+Medium,Low,Large,1,Petrol,Medium,Acc
+Medium,Low,Medium,2,Diesel,Medium,Vgood
+High,Low,Medium,2,Petrol,Low,Unacc
+Very High,Low,Medium,2,Diesel,Low,Acc
+Very High,Very High,Large,2,Petrol,High,Acc
+High,High,Medium,2,Electric,Low,Acc
+Low,Low,Medium,2,Electric,Low,Good
+Medium,Medium,Medium,3more,Electric,High,Good
+Very High,Low,Medium,2,Diesel,High,Unacc
+High,Very High,Small,3more,Diesel,Low,Acc
+High,Low,Large,3more,Electric,Low,Acc
+Medium,High,Large,2,Diesel,Low,Acc
+High,Very High,Medium,1,Electric,High,Vgood
+Medium,Low,Medium,3more,Petrol,Low,Unacc
+Very High,Low,Large,1,Electric,Low,Acc
+Medium,Low,Small,2,Petrol,High,Acc
+Low,Low,Large,2,Petrol,High,Good
+Medium,High,Large,3more,Petrol,Medium,Unacc
+Medium,Very High,Medium,2,Diesel,High,Vgood
+Low,Very High,Small,3more,Diesel,Medium,Acc
+Medium,Low,Small,3more,Diesel,Low,Good
+High,Very High,Medium,2,Electric,High,Unacc
+Very High,Medium,Large,3more,Electric,High,Vgood
+Very High,Low,Small,3more,Petrol,Low,Vgood
+Very High,Very High,Large,1,Diesel,Low,Acc
+Very High,Very High,Medium,2,Petrol,High,Vgood
+Low,Very High,Medium,1,Petrol,Medium,Vgood
+Medium,Very High,Large,3more,Diesel,Medium,Vgood
+Medium,Low,Small,3more,Diesel,Low,Acc
+High,High,Large,2,Petrol,High,Unacc
+Medium,Low,Small,3more,Electric,Medium,Vgood
+Low,Very High,Medium,3more,Diesel,High,Acc
+High,High,Large,3more,Electric,High,Good
+High,Medium,Medium,3more,Electric,Low,Acc
+Medium,Low,Medium,1,Petrol,High,Vgood
+Low,Low,Small,3more,Petrol,Low,Good
+Very High,Low,Small,1,Diesel,Medium,Good
+Low,Low,Small,1,Petrol,Low,Vgood
+Low,Medium,Large,2,Electric,Low,Vgood
+Low,Medium,Small,1,Petrol,High,Unacc
+High,High,Large,1,Petrol,Medium,Good
+High,High,Large,1,Petrol,Low,Vgood
+Low,Very High,Small,2,Diesel,High,Unacc
+Very High,Very High,Medium,3more,Petrol,Low,Acc
+High,Very High,Large,2,Diesel,Low,Acc
+Low,Medium,Large,1,Petrol,Low,Acc
+Very High,Medium,Small,1,Diesel,Medium,Good
+Medium,Medium,Large,1,Electric,High,Good
+Medium,Low,Small,2,Electric,Medium,Good
+Low,Low,Medium,2,Diesel,High,Unacc
+Low,Medium,Medium,1,Diesel,Medium,Vgood
+High,High,Large,2,Diesel,Low,Unacc
+Very High,Very High,Small,2,Petrol,High,Acc
+Low,High,Small,1,Electric,Medium,Acc
+Medium,High,Small,3more,Petrol,Medium,Vgood
+Low,Medium,Medium,2,Diesel,Low,Acc
+High,Medium,Medium,1,Diesel,Low,Unacc
+High,Very High,Small,1,Petrol,Medium,Acc
+Very High,High,Small,1,Petrol,High,Good
+Medium,High,Small,1,Diesel,Medium,Vgood
+Very High,High,Large,3more,Electric,Medium,Unacc
+Medium,High,Large,1,Diesel,Medium,Good
+Medium,Low,Medium,1,Electric,High,Vgood
+Low,Medium,Large,3more,Diesel,Medium,Acc
+Medium,Low,Medium,3more,Petrol,Medium,Vgood
+Medium,Medium,Small,1,Diesel,Medium,Acc
+High,Low,Large,2,Diesel,High,Good
+Very High,Very High,Large,3more,Diesel,Low,Good
+Very High,High,Medium,1,Petrol,Low,Vgood
+High,Medium,Small,3more,Petrol,Medium,Vgood
+Low,Medium,Small,2,Electric,Low,Unacc
+Very High,Medium,Small,2,Diesel,Medium,Good
+High,Low,Small,1,Electric,Low,Vgood
+Low,High,Medium,3more,Diesel,High,Acc
+High,Medium,Medium,1,Petrol,Low,Acc
+Very High,Very High,Medium,3more,Diesel,Low,Vgood
+Very High,Very High,Large,3more,Petrol,High,Unacc
+Medium,High,Large,1,Diesel,Low,Vgood
+High,High,Small,2,Petrol,Medium,Unacc
+Medium,High,Large,3more,Electric,High,Good
+High,Very High,Large,1,Diesel,High,Unacc
+Very High,High,Medium,1,Electric,High,Vgood
+High,Medium,Large,1,Electric,High,Unacc
+High,Low,Large,2,Diesel,High,Acc
+Low,Very High,Large,1,Electric,High,Good
+Low,Low,Small,1,Diesel,Medium,Acc
+Low,Very High,Medium,1,Petrol,Low,Vgood
+Medium,Medium,Large,1,Electric,Medium,Vgood
+High,Low,Medium,1,Petrol,High,Unacc
+Very High,Medium,Medium,3more,Electric,Low,Vgood
+High,Medium,Large,2,Petrol,High,Vgood
+High,Very High,Large,1,Petrol,High,Vgood
+Low,Medium,Medium,1,Petrol,Low,Unacc
+Medium,Medium,Medium,2,Petrol,Medium,Good
+Very High,Very High,Small,3more,Petrol,High,Vgood
+Very High,High,Small,1,Petrol,Low,Good
+Low,Very High,Small,3more,Electric,Low,Unacc
+Very High,Medium,Small,3more,Diesel,Low,Vgood
+High,Very High,Small,3more,Petrol,High,Good
+High,Medium,Medium,2,Petrol,High,Vgood
+Low,Low,Large,2,Electric,High,Good
+Medium,High,Large,2,Petrol,High,Good
+High,Low,Large,3more,Diesel,High,Unacc
+Medium,Low,Small,2,Petrol,High,Acc
+Medium,High,Small,2,Electric,Medium,Vgood
+Very High,Low,Large,3more,Electric,High,Vgood
+High,Low,Large,3more,Electric,High,Unacc
+Very High,Medium,Large,1,Diesel,Low,Acc
+Low,High,Medium,2,Diesel,High,Unacc
+High,Very High,Medium,1,Diesel,Low,Good
+Low,Medium,Large,1,Petrol,High,Good
+Very High,High,Large,1,Petrol,Medium,Acc
+Very High,Low,Small,3more,Electric,High,Vgood
+Very High,Low,Large,1,Electric,High,Vgood
+High,Medium,Small,3more,Diesel,High,Unacc
+Very High,Medium,Medium,1,Diesel,Medium,Vgood
+Low,High,Medium,3more,Petrol,Medium,Good
+Medium,Medium,Large,1,Petrol,Medium,Unacc
+High,Medium,Large,1,Petrol,Low,Unacc
+Low,High,Medium,2,Diesel,High,Vgood
+High,Medium,Medium,2,Electric,Medium,Vgood
+Very High,High,Large,3more,Diesel,Low,Good
+High,Medium,Small,2,Electric,Medium,Unacc
+Very High,Medium,Small,3more,Electric,Low,Good
+Low,Medium,Medium,3more,Diesel,Medium,Good
+Low,Low,Small,2,Electric,Low,Vgood
+Medium,Medium,Large,3more,Petrol,Medium,Good
+Very High,High,Large,3more,Petrol,Medium,Good
+Medium,Low,Small,2,Petrol,High,Unacc
+Low,Low,Medium,3more,Electric,Low,Good
+Very High,Medium,Large,1,Electric,High,Acc
+Medium,Very High,Small,2,Electric,Low,Good
+High,Low,Medium,1,Diesel,Medium,Good
+High,High,Large,2,Electric,High,Vgood
+Low,Medium,Large,1,Diesel,Medium,Unacc
+Low,High,Large,3more,Electric,Medium,Vgood
+Medium,Very High,Medium,2,Petrol,Low,Good
+Medium,Medium,Small,1,Petrol,Medium,Good
+Medium,High,Large,3more,Diesel,High,Unacc
+Very High,High,Large,1,Electric,High,Unacc
+High,Medium,Large,2,Petrol,Low,Good
+Very High,Very High,Large,3more,Petrol,Medium,Unacc
+Very High,Low,Large,1,Petrol,High,Vgood
+Medium,Low,Small,1,Diesel,Medium,Acc
+High,Medium,Small,2,Diesel,High,Acc
+Medium,Medium,Large,1,Petrol,Low,Unacc
+High,Medium,Small,3more,Petrol,Medium,Unacc
+High,Medium,Small,3more,Electric,Medium,Acc
+Medium,Very High,Large,3more,Diesel,Low,Acc
+Low,High,Large,1,Diesel,High,Vgood
+Very High,High,Small,3more,Diesel,Low,Vgood
+High,Very High,Small,2,Petrol,High,Good
+Medium,Medium,Large,2,Petrol,Low,Good
+Very High,Low,Medium,2,Diesel,Medium,Vgood
+Very High,Medium,Medium,3more,Petrol,High,Acc
+Medium,High,Small,3more,Petrol,High,Vgood
+Low,Medium,Small,2,Electric,High,Unacc
+Low,High,Small,2,Petrol,Low,Unacc
+Medium,Medium,Large,1,Electric,High,Good
+Low,Low,Small,1,Diesel,Medium,Good
+Very High,High,Large,2,Diesel,Medium,Unacc
+Medium,Medium,Small,3more,Electric,Medium,Acc
+High,Very High,Small,2,Petrol,Medium,Unacc
+Medium,Medium,Large,1,Diesel,Low,Vgood
+Low,Low,Medium,2,Petrol,Low,Unacc
+Very High,Very High,Small,1,Diesel,Medium,Good
+Very High,Low,Small,1,Petrol,Medium,Good
+High,Medium,Small,1,Petrol,High,Vgood
+Medium,Very High,Large,2,Petrol,Low,Vgood
+Low,High,Medium,3more,Electric,High,Unacc
+High,Very High,Medium,2,Electric,Medium,Acc
+Medium,Very High,Large,1,Diesel,High,Good
+Low,Medium,Small,1,Petrol,Low,Unacc
+Low,High,Medium,2,Electric,Low,Vgood
+Very High,High,Large,1,Electric,Medium,Unacc
+Very High,Very High,Small,3more,Petrol,Low,Acc
+Very High,Very High,Small,1,Petrol,Low,Good
+Low,Very High,Medium,1,Petrol,Low,Good
+Medium,High,Small,1,Petrol,Medium,Acc
+Medium,Very High,Large,3more,Diesel,Medium,Unacc
+Medium,Low,Medium,1,Electric,High,Good
+High,Medium,Large,2,Diesel,High,Vgood
+High,Medium,Large,1,Diesel,Medium,Acc
+Very High,Medium,Medium,3more,Diesel,High,Vgood
+Very High,Very High,Small,1,Electric,Low,Good
+Medium,Medium,Large,3more,Diesel,Low,Acc
+Very High,Very High,Medium,1,Electric,Low,Good
+Medium,Medium,Large,1,Diesel,Medium,Unacc
+Medium,High,Medium,2,Electric,Low,Vgood
+High,Very High,Large,1,Diesel,High,Acc
+Medium,Very High,Medium,3more,Diesel,Low,Good
+Very High,Medium,Large,3more,Diesel,Low,Good
+Medium,High,Large,1,Diesel,Low,Unacc
+Very High,High,Large,3more,Petrol,High,Vgood
+Medium,Low,Small,2,Diesel,High,Acc
+Low,Medium,Large,1,Diesel,Medium,Unacc
+High,Low,Small,1,Electric,Medium,Vgood
+High,High,Large,2,Diesel,Medium,Acc
+Medium,Very High,Small,1,Electric,Low,Good
+Very High,High,Small,2,Electric,Medium,Good
+Medium,Medium,Small,1,Electric,High,Vgood
+High,Low,Small,2,Diesel,High,Good
+Very High,Very High,Small,2,Petrol,Low,Unacc
+Low,High,Medium,2,Diesel,High,Acc
+Low,Very High,Small,3more,Electric,Medium,Acc
+Very High,Very High,Small,1,Electric,Low,Unacc
+Medium,Very High,Large,2,Electric,Medium,Good
+High,Very High,Large,2,Electric,Medium,Acc
+Very High,Very High,Small,3more,Petrol,High,Unacc
+Medium,High,Large,2,Petrol,High,Good
+Very High,Very High,Medium,1,Diesel,High,Vgood
+Very High,High,Medium,3more,Petrol,Low,Vgood
+High,High,Small,3more,Electric,High,Good
+Low,Very High,Large,1,Petrol,Low,Vgood
+Low,Low,Large,2,Diesel,Low,Vgood
+Low,Medium,Medium,2,Diesel,High,Unacc
+Low,Very High,Small,3more,Petrol,Medium,Good
+High,Medium,Large,3more,Petrol,Medium,Good
+Medium,High,Medium,1,Electric,Medium,Good
+Very High,Low,Medium,3more,Electric,High,Good
+High,High,Medium,1,Electric,Medium,Vgood
+Low,Low,Large,1,Diesel,High,Acc
+Low,High,Small,3more,Diesel,Medium,Vgood
+High,Low,Medium,2,Petrol,Medium,Vgood
+Very High,High,Medium,2,Electric,Medium,Acc
+High,Medium,Small,3more,Petrol,High,Acc
+Very High,Low,Medium,1,Petrol,Low,Vgood
+High,Low,Large,2,Diesel,High,Good
+Medium,Low,Medium,1,Electric,Low,Vgood
+Low,High,Large,1,Petrol,High,Unacc
+Medium,Low,Small,3more,Diesel,High,Unacc
+High,Medium,Large,2,Electric,High,Vgood
+Medium,High,Small,1,Electric,Low,Good
+Very High,Medium,Small,3more,Electric,Low,Unacc
+High,High,Large,1,Diesel,Low,Acc
+Very High,High,Large,3more,Electric,High,Good
+Medium,High,Medium,1,Petrol,High,Good
+Low,High,Large,1,Diesel,Medium,Good
+High,Medium,Large,3more,Electric,High,Good
+Very High,Medium,Large,3more,Diesel,High,Vgood
+Medium,High,Small,1,Diesel,Medium,Vgood
+High,Low,Large,3more,Diesel,Medium,Unacc
+Low,High,Medium,1,Electric,Medium,Acc
+High,High,Large,3more,Diesel,Medium,Acc
+Low,High,Large,3more,Diesel,Low,Good
+Medium,Very High,Large,3more,Diesel,High,Vgood
+Very High,Very High,Large,3more,Petrol,High,Vgood
+High,Low,Large,3more,Petrol,High,Unacc
+High,Very High,Small,3more,Electric,Medium,Good
+Very High,Medium,Medium,2,Electric,Low,Vgood
+High,Very High,Small,2,Electric,Low,Acc
+High,Medium,Medium,1,Diesel,Medium,Vgood
+High,Medium,Medium,2,Electric,Medium,Acc
+High,Medium,Medium,2,Petrol,Medium,Vgood
+Very High,Very High,Small,2,Diesel,Low,Unacc
+Medium,Medium,Large,3more,Diesel,High,Unacc
+High,Very High,Small,2,Electric,High,Vgood
+Very High,Very High,Small,1,Diesel,High,Acc
+Medium,High,Medium,3more,Diesel,High,Acc
+Very High,Low,Small,3more,Petrol,High,Unacc
+Low,High,Large,2,Petrol,Medium,Good
+Medium,Medium,Small,1,Diesel,Medium,Acc
+Medium,Very High,Large,1,Electric,Medium,Acc
+Low,Very High,Large,3more,Petrol,Medium,Vgood
+Medium,Medium,Medium,3more,Diesel,Medium,Vgood
+Medium,Very High,Small,1,Electric,Low,Good
+Low,Very High,Medium,1,Petrol,Low,Acc
+Very High,Low,Large,3more,Electric,Low,Vgood
+High,High,Small,3more,Diesel,High,Good
+Medium,Medium,Medium,2,Electric,High,Good
+Very High,Medium,Medium,1,Electric,Low,Good
+Very High,High,Medium,1,Electric,Medium,Unacc
+Low,Low,Small,1,Petrol,High,Good
+Very High,Very High,Small,2,Diesel,Medium,Vgood
+Low,High,Medium,3more,Diesel,High,Acc
+Very High,High,Small,1,Diesel,High,Vgood
+High,Medium,Small,2,Petrol,Medium,Vgood
+Very High,Very High,Medium,1,Diesel,Low,Vgood
+Very High,Very High,Small,2,Petrol,Medium,Good
+Very High,Very High,Medium,2,Diesel,Medium,Vgood
+Low,High,Small,1,Petrol,Low,Acc
+Medium,High,Small,2,Petrol,Low,Acc
+Low,Low,Small,1,Diesel,Medium,Vgood
+High,Low,Large,1,Electric,Medium,Good
+Low,Medium,Large,2,Petrol,Medium,Unacc
+Medium,Medium,Medium,3more,Petrol,Medium,Good
+High,High,Large,2,Diesel,Low,Vgood
+Medium,Very High,Medium,2,Diesel,Low,Acc
+Medium,Very High,Small,1,Petrol,Medium,Unacc
+High,Medium,Large,1,Diesel,Medium,Vgood
+Medium,Very High,Medium,1,Diesel,High,Vgood
+Low,Low,Large,3more,Electric,Low,Vgood
+Medium,Very High,Large,2,Petrol,Low,Vgood
+Very High,Medium,Medium,2,Petrol,High,Acc
+Low,Very High,Large,2,Diesel,Medium,Unacc
+Medium,Low,Medium,2,Petrol,Low,Acc
+Very High,High,Large,2,Diesel,Low,Acc
+Low,Very High,Small,3more,Diesel,Low,Unacc
+High,High,Small,1,Electric,High,Vgood
+Low,Low,Small,1,Electric,High,Unacc
+High,Medium,Medium,3more,Electric,Low,Good
+Low,Low,Medium,2,Petrol,Low,Acc
+Very High,Medium,Small,1,Petrol,High,Acc
+High,Low,Medium,2,Electric,Low,Vgood
+Low,Very High,Large,2,Diesel,High,Unacc
+High,Low,Large,2,Petrol,High,Good
+Medium,Medium,Large,2,Electric,Low,Unacc
+Low,Medium,Large,3more,Petrol,Low,Vgood
+Low,Low,Large,3more,Diesel,Medium,Acc
+Very High,Very High,Medium,1,Electric,Low,Acc
+Very High,High,Medium,2,Petrol,Medium,Vgood
+Very High,Medium,Large,2,Diesel,Low,Good
+High,Medium,Small,3more,Petrol,Medium,Acc
+Low,High,Medium,3more,Petrol,High,Acc
+High,Low,Small,2,Diesel,Medium,Vgood
+Low,Very High,Large,2,Diesel,High,Acc
+Very High,Low,Large,1,Petrol,Medium,Good
+High,High,Large,3more,Electric,High,Acc
+Medium,Low,Small,2,Electric,Low,Good
+Medium,Medium,Large,3more,Diesel,Medium,Unacc
+Low,High,Small,2,Diesel,Medium,Unacc
+High,Very High,Small,2,Diesel,Low,Acc
+High,Very High,Medium,3more,Petrol,High,Vgood
+Low,Medium,Large,1,Diesel,High,Vgood
+Low,Low,Large,3more,Diesel,Low,Acc
+Very High,Medium,Medium,3more,Electric,Medium,Vgood
+Low,Very High,Small,1,Diesel,Medium,Acc
+Very High,Very High,Large,3more,Petrol,Medium,Acc
+High,Low,Large,1,Electric,Medium,Vgood
+Medium,Very High,Medium,3more,Diesel,Low,Unacc
+Medium,Medium,Large,3more,Electric,Low,Good
+Very High,Medium,Small,1,Diesel,Medium,Acc
+Low,Medium,Large,1,Electric,High,Acc
+Low,High,Large,1,Petrol,High,Vgood
+Medium,Very High,Medium,2,Electric,Low,Unacc
+Medium,Very High,Large,2,Petrol,Medium,Unacc
+Very High,Medium,Medium,1,Diesel,Low,Unacc
+Very High,High,Small,3more,Petrol,High,Vgood
+High,Medium,Medium,2,Diesel,Low,Vgood
+Medium,Very High,Medium,1,Electric,High,Vgood
+Low,High,Medium,1,Petrol,Low,Unacc
+High,Medium,Large,2,Diesel,Medium,Vgood
+Very High,Low,Medium,2,Diesel,Low,Good
+Very High,Medium,Medium,3more,Petrol,High,Unacc
+High,Very High,Medium,1,Diesel,Medium,Unacc
+Medium,Low,Large,2,Electric,Medium,Vgood
+High,Very High,Large,2,Electric,Medium,Vgood
+Low,Medium,Small,2,Diesel,High,Unacc
+High,High,Medium,3more,Electric,High,Good
+Medium,Very High,Large,3more,Petrol,High,Vgood
+Very High,Very High,Small,2,Diesel,High,Unacc
+Very High,Very High,Medium,1,Diesel,Low,Good
+Very High,Low,Medium,1,Petrol,High,Vgood
+Very High,Low,Medium,1,Petrol,High,Vgood
+High,High,Small,3more,Electric,Medium,Vgood
+Very High,Very High,Large,1,Diesel,Low,Unacc
+Low,High,Small,2,Electric,Medium,Unacc
+Very High,High,Small,2,Diesel,Low,Acc
+High,Very High,Large,1,Electric,High,Good
+Medium,Medium,Small,2,Electric,High,Unacc
+Very High,Very High,Small,2,Electric,Medium,Acc
+Very High,Medium,Small,1,Diesel,Low,Good
+Low,Medium,Large,2,Diesel,High,Vgood
+Low,Very High,Small,2,Diesel,High,Good
+High,Very High,Small,3more,Diesel,High,Acc
+Very High,Very High,Large,2,Diesel,Low,Acc
+Medium,Medium,Medium,1,Diesel,High,Vgood
+Medium,Low,Large,3more,Diesel,High,Acc
+Very High,Very High,Medium,3more,Diesel,Low,Good
+Low,Low,Small,2,Petrol,Low,Unacc
+High,Medium,Medium,1,Electric,Low,Good
+Very High,Medium,Large,2,Petrol,High,Unacc
+Very High,High,Large,2,Diesel,Medium,Vgood
+Low,High,Large,1,Petrol,Low,Vgood
+Very High,Low,Small,3more,Petrol,High,Acc
+High,Medium,Medium,1,Electric,Low,Good
+Medium,Very High,Medium,2,Diesel,Medium,Good
+Medium,Very High,Large,1,Petrol,Medium,Good
+High,Low,Large,3more,Electric,Low,Vgood
+Medium,High,Large,1,Electric,Medium,Good
+Very High,Low,Large,2,Diesel,Low,Vgood
+High,Low,Large,3more,Petrol,High,Good
+Low,High,Small,1,Electric,Medium,Good
+Low,Very High,Medium,3more,Electric,Medium,Unacc
+Low,Very High,Small,2,Electric,Low,Acc
+Low,Medium,Large,1,Diesel,Low,Acc
+Very High,High,Small,2,Petrol,High,Good
+Very High,Medium,Large,2,Diesel,Low,Unacc
+Low,Low,Small,2,Petrol,High,Acc
+Very High,Very High,Large,1,Diesel,High,Good
+High,Low,Medium,1,Electric,High,Good
+High,Low,Large,1,Petrol,Low,Good
+High,Very High,Large,1,Diesel,Low,Good
+Low,Very High,Large,3more,Electric,Medium,Acc
+Low,High,Medium,2,Diesel,Low,Good
+Low,Very High,Small,2,Petrol,Medium,Vgood
+Very High,Medium,Large,2,Petrol,High,Vgood
+Medium,Very High,Large,3more,Petrol,High,Good
+Medium,Low,Large,1,Diesel,Low,Acc
+Very High,Low,Large,1,Electric,High,Acc
+Low,High,Large,1,Petrol,Low,Acc
+Low,Low,Small,1,Diesel,Low,Good
+Very High,Medium,Large,2,Electric,Medium,Vgood
+High,High,Medium,2,Petrol,High,Good
+High,Very High,Small,1,Diesel,Medium,Acc
+Very High,Very High,Large,2,Electric,High,Unacc
+Very High,Very High,Large,3more,Diesel,Medium,Acc
+High,Low,Small,2,Electric,High,Good
+High,Low,Small,2,Diesel,High,Acc
+Medium,Medium,Small,3more,Petrol,Low,Unacc
+Medium,Very High,Medium,1,Petrol,High,Good
+Medium,Medium,Small,3more,Electric,Medium,Good
+Low,Very High,Large,2,Electric,Medium,Vgood
+High,High,Medium,1,Electric,High,Vgood
+Low,Medium,Small,1,Electric,High,Acc
+Very High,Medium,Medium,1,Electric,Low,Good
+Low,Low,Medium,2,Electric,Medium,Acc
+Low,Low,Medium,2,Petrol,Low,Good
+Very High,Medium,Small,2,Electric,Medium,Good
+Low,High,Medium,1,Petrol,High,Vgood
+Low,Low,Small,1,Electric,Medium,Vgood
+Medium,Very High,Medium,2,Petrol,Medium,Acc
+Very High,Medium,Large,2,Electric,High,Vgood
+Very High,Low,Small,2,Electric,Medium,Acc
+Very High,Low,Large,2,Diesel,High,Vgood
+Very High,High,Small,3more,Petrol,Medium,Vgood
+High,Medium,Medium,3more,Petrol,High,Unacc
+High,Very High,Medium,1,Electric,Medium,Unacc
+Very High,High,Medium,3more,Electric,Medium,Good
+High,Medium,Medium,2,Petrol,Low,Acc
+Low,Medium,Medium,2,Diesel,Low,Good
+Medium,Low,Small,3more,Electric,Low,Acc
+Medium,Medium,Small,3more,Diesel,Medium,Acc
+Low,Very High,Large,2,Electric,Medium,Acc
+Medium,Low,Large,1,Petrol,Medium,Good
+Low,Low,Large,3more,Diesel,Medium,Unacc
+Low,Very High,Medium,3more,Electric,Low,Acc
+Medium,High,Small,1,Electric,High,Good
+Low,Very High,Medium,1,Petrol,Medium,Vgood
+Medium,Low,Large,3more,Petrol,Low,Vgood
+Very High,Low,Large,3more,Petrol,Low,Unacc
+Medium,Low,Small,3more,Petrol,Medium,Acc
+Medium,Very High,Medium,3more,Petrol,Medium,Acc
+Very High,Medium,Large,1,Electric,High,Good
+Medium,Medium,Medium,2,Petrol,Low,Unacc
+Low,High,Small,3more,Electric,Medium,Vgood
+High,Medium,Medium,3more,Petrol,High,Unacc
+Very High,Medium,Small,3more,Petrol,Medium,Good
+Medium,Low,Large,3more,Petrol,High,Unacc
+Very High,Low,Medium,3more,Petrol,Low,Good
+Very High,Very High,Medium,2,Diesel,Medium,Unacc
+Low,Low,Medium,1,Petrol,Medium,Unacc
+Low,Low,Medium,1,Electric,High,Vgood
+Medium,High,Small,2,Diesel,Medium,Acc
+Medium,Medium,Small,1,Diesel,High,Acc
+Very High,Low,Medium,2,Petrol,Low,Good
+Very High,Medium,Large,2,Petrol,Low,Acc
+Very High,Low,Small,1,Diesel,Medium,Acc
+Low,Medium,Medium,3more,Diesel,Medium,Acc
+Very High,Medium,Medium,2,Diesel,High,Vgood
+Medium,Low,Small,2,Petrol,Low,Acc
+Medium,Very High,Small,3more,Petrol,Medium,Unacc
+High,Low,Medium,3more,Electric,Low,Good
+Very High,High,Medium,1,Diesel,High,Good
+Low,High,Small,2,Electric,Medium,Unacc
+High,Medium,Small,1,Electric,Medium,Acc
+Low,Medium,Large,3more,Diesel,High,Unacc
+Low,Very High,Large,2,Electric,Medium,Acc
+Very High,Very High,Small,3more,Electric,Medium,Good
+Very High,Low,Medium,3more,Petrol,Medium,Unacc
+Very High,Medium,Small,1,Diesel,Medium,Acc
+High,Medium,Medium,1,Petrol,Medium,Acc
+Low,Low,Small,1,Electric,Medium,Acc
+Very High,High,Small,3more,Petrol,Medium,Vgood
+Very High,High,Large,1,Petrol,Low,Vgood
+Very High,Medium,Medium,2,Petrol,Medium,Unacc
+Very High,Low,Small,3more,Electric,Medium,Unacc
+Medium,Very High,Medium,3more,Electric,High,Good
+Low,High,Medium,1,Petrol,Low,Unacc
+Low,Low,Medium,3more,Petrol,Medium,Acc
+Very High,Very High,Medium,2,Electric,High,Vgood
+High,Medium,Medium,1,Electric,Low,Unacc
+Low,Very High,Medium,2,Electric,Medium,Vgood
+High,Medium,Small,1,Electric,Medium,Unacc
+Very High,Low,Large,1,Petrol,Medium,Vgood
+Very High,High,Medium,3more,Diesel,Low,Acc
+Low,High,Small,3more,Diesel,High,Unacc
+Very High,Low,Medium,1,Diesel,Low,Acc
+High,Low,Large,2,Diesel,High,Vgood
+Very High,Medium,Medium,2,Electric,Low,Good
+Very High,Very High,Small,1,Petrol,High,Unacc
+Low,High,Small,2,Electric,Low,Vgood
+Medium,Very High,Medium,2,Diesel,High,Unacc
+High,Low,Large,3more,Diesel,High,Vgood
+Medium,Medium,Medium,1,Electric,Medium,Acc
+Very High,High,Small,3more,Diesel,Low,Vgood
+High,Low,Medium,2,Diesel,High,Unacc
+Very High,High,Large,3more,Diesel,High,Good
+Medium,Very High,Small,2,Electric,Low,Vgood
+Medium,Medium,Small,2,Petrol,High,Good
+High,High,Small,2,Diesel,Low,Vgood
+Very High,Medium,Medium,2,Diesel,Medium,Acc
+Medium,High,Small,2,Diesel,Low,Good
+High,Very High,Small,3more,Petrol,High,Vgood
+Very High,Low,Medium,2,Petrol,Medium,Good
+Very High,High,Medium,3more,Diesel,Medium,Good
+High,Low,Large,2,Diesel,High,Good
+Very High,Very High,Medium,1,Petrol,Low,Acc
+Medium,Very High,Small,1,Electric,High,Good
+Medium,Medium,Small,2,Diesel,Low,Good
+High,Low,Large,2,Petrol,High,Good
+Low,Medium,Small,2,Electric,Low,Vgood
+Very High,Low,Medium,1,Diesel,Medium,Unacc
+Medium,Low,Large,3more,Petrol,High,Acc
+Medium,High,Medium,3more,Electric,Low,Vgood
+Medium,Medium,Small,1,Electric,Low,Unacc
+Medium,Very High,Medium,3more,Electric,High,Good
+Very High,Medium,Medium,2,Electric,Medium,Vgood
+Low,Low,Large,2,Diesel,High,Vgood
+Very High,Low,Medium,2,Petrol,Low,Acc
+Very High,Medium,Large,3more,Diesel,Medium,Acc
+High,High,Large,3more,Petrol,Low,Unacc
+Medium,Very High,Small,3more,Diesel,Medium,Vgood
+Medium,High,Medium,2,Electric,Medium,Good
+Low,Medium,Medium,3more,Diesel,Medium,Unacc
+Low,Medium,Large,2,Diesel,Low,Vgood
+High,Very High,Large,3more,Petrol,High,Good
+High,Medium,Large,3more,Petrol,High,Acc
+High,Low,Medium,1,Diesel,Low,Acc
+Medium,Medium,Small,1,Electric,Low,Unacc
+Medium,Very High,Small,1,Electric,Low,Acc
+Low,High,Small,1,Petrol,Low,Acc
+Low,Medium,Small,3more,Diesel,High,Good
+High,High,Small,1,Electric,Low,Good
+Very High,High,Small,3more,Electric,High,Good
+Low,Low,Medium,2,Diesel,Medium,Vgood
+Medium,Very High,Large,1,Electric,Medium,Unacc
+Low,High,Small,2,Petrol,Low,Good
+Medium,Low,Large,3more,Petrol,Low,Acc
+Very High,Medium,Small,3more,Electric,Medium,Acc
+High,High,Small,3more,Petrol,Medium,Good
+High,High,Large,1,Diesel,Low,Acc
+High,Medium,Medium,3more,Electric,Low,Acc
+Low,Medium,Medium,2,Electric,High,Vgood
+High,Low,Large,3more,Electric,High,Acc
+Medium,Medium,Large,3more,Diesel,Low,Acc
+Low,Medium,Small,1,Diesel,Low,Acc
+Low,Very High,Medium,3more,Electric,Medium,Good
+Very High,High,Medium,2,Petrol,High,Vgood
+Very High,Medium,Medium,2,Diesel,Low,Vgood
+Low,Very High,Medium,1,Electric,Medium,Good
+Low,Low,Medium,1,Diesel,High,Acc
+Low,Low,Small,2,Diesel,Medium,Good
+Low,Very High,Medium,3more,Petrol,Low,Vgood
+Low,Low,Small,2,Electric,High,Good
+Medium,Medium,Large,1,Diesel,Medium,Good
+Low,Low,Small,1,Diesel,Low,Acc
+Medium,Medium,Large,2,Diesel,Low,Good
+High,Medium,Large,1,Electric,Low,Good
+Medium,Medium,Small,2,Electric,High,Good
+High,Low,Small,2,Petrol,High,Good
+Very High,Medium,Medium,2,Electric,High,Vgood
+Very High,Medium,Small,3more,Electric,High,Good
+Low,Medium,Medium,3more,Electric,Medium,Vgood
+Medium,Low,Large,3more,Electric,Low,Vgood
+High,Very High,Small,2,Electric,Low,Vgood
+High,Very High,Large,1,Diesel,High,Unacc
+Medium,High,Medium,2,Petrol,High,Vgood
+Low,Medium,Small,1,Electric,High,Unacc
+Medium,Medium,Medium,3more,Diesel,Low,Vgood
+Very High,Medium,Large,2,Electric,Low,Good
+Very High,Very High,Small,2,Electric,High,Acc
+Low,Medium,Large,3more,Diesel,High,Vgood
+Medium,Medium,Large,2,Electric,Medium,Good
+Very High,High,Large,2,Electric,Low,Unacc
+High,High,Large,2,Diesel,High,Acc
+High,Very High,Small,3more,Petrol,Medium,Acc
+Medium,Medium,Small,1,Petrol,Medium,Good
+Low,High,Large,1,Petrol,Medium,Good
+High,Very High,Large,2,Electric,High,Good
+High,Low,Large,1,Petrol,High,Unacc
+Very High,High,Small,1,Petrol,Low,Good
+High,Very High,Small,1,Petrol,Medium,Vgood
+Medium,Very High,Small,1,Electric,Medium,Vgood
+Medium,Medium,Small,2,Petrol,Medium,Good
+Very High,Very High,Medium,3more,Diesel,Low,Acc
+Medium,Very High,Small,3more,Electric,Low,Acc
+Medium,Very High,Medium,3more,Diesel,Medium,Vgood
+Very High,Very High,Small,2,Diesel,High,Good
+Very High,Medium,Small,2,Petrol,High,Unacc
+Very High,Very High,Medium,1,Electric,Medium,Unacc
+Very High,Low,Small,3more,Petrol,Medium,Acc
+High,Very High,Large,2,Petrol,Medium,Acc
+Low,Very High,Small,1,Petrol,Medium,Good
+Very High,Low,Small,3more,Electric,Low,Vgood
+Medium,High,Small,2,Diesel,Low,Vgood
+Low,Medium,Medium,1,Diesel,Medium,Unacc
+Low,Medium,Medium,3more,Petrol,High,Vgood
+Low,High,Large,3more,Petrol,Medium,Vgood
+High,Very High,Medium,2,Electric,Medium,Acc
+High,Very High,Large,1,Diesel,Medium,Good
+Very High,High,Large,3more,Petrol,High,Vgood
+Medium,Very High,Small,2,Petrol,High,Unacc
+Very High,High,Small,1,Electric,High,Unacc
+Low,Very High,Medium,3more,Petrol,Low,Unacc
+Very High,Very High,Medium,2,Diesel,Medium,Good
+Low,Low,Medium,3more,Diesel,Low,Good
+Medium,High,Small,1,Electric,Medium,Good
+Low,Medium,Large,2,Electric,High,Vgood
+High,Very High,Medium,2,Petrol,Medium,Good
+Very High,Medium,Large,3more,Petrol,Medium,Unacc
+Very High,Medium,Small,1,Diesel,High,Vgood
+High,Medium,Medium,2,Petrol,High,Acc
+High,Low,Small,1,Electric,Low,Unacc
+High,Low,Medium,1,Diesel,Medium,Good
+Low,High,Medium,3more,Diesel,Low,Vgood
+High,Very High,Medium,1,Petrol,High,Acc
+Medium,Very High,Medium,3more,Electric,Low,Acc
+Very High,Very High,Large,1,Electric,Medium,Good
+Very High,Very High,Medium,3more,Electric,Low,Acc
+Medium,High,Small,3more,Petrol,Medium,Unacc
+Very High,Very High,Medium,2,Petrol,Medium,Vgood
+High,Very High,Small,3more,Diesel,Medium,Acc
+Very High,High,Small,2,Diesel,High,Good
+Medium,Low,Small,3more,Diesel,Low,Good
+High,Very High,Small,1,Electric,High,Good
+Low,Low,Small,2,Diesel,Medium,Unacc
+Low,Low,Large,1,Petrol,Medium,Acc
+High,Very High,Large,1,Petrol,Low,Unacc
+Very High,Medium,Medium,1,Electric,High,Good
+Medium,Medium,Small,1,Petrol,Low,Good
+High,Very High,Medium,2,Diesel,Low,Vgood
+Medium,High,Medium,1,Electric,High,Acc
+Low,High,Medium,3more,Petrol,Low,Acc
+High,Very High,Large,3more,Petrol,Low,Good
+High,High,Small,1,Electric,Medium,Vgood
+Medium,Low,Medium,1,Petrol,High,Acc
+Low,Very High,Small,3more,Electric,Low,Vgood
+Low,Very High,Medium,3more,Electric,Low,Good
+High,Medium,Medium,3more,Petrol,Low,Good
+Medium,Medium,Medium,1,Petrol,Medium,Acc
+High,Very High,Medium,3more,Petrol,High,Good
+Very High,Low,Medium,2,Petrol,Medium,Good
+Low,High,Small,1,Petrol,High,Unacc
+Low,Low,Small,3more,Diesel,High,Acc
+High,Medium,Large,3more,Diesel,High,Unacc
